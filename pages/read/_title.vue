@@ -84,5 +84,4 @@
         width: 30%;
         min-width: 230px;
     }
-    @media only screen and (min-width)
 </style>
