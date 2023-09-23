@@ -62,6 +62,7 @@
     }
     main{
         width: 100%;
+        min-height: 70vh;
         height: 100%;
         display: flex;
         flex-direction: column;
@@ -73,13 +74,15 @@
     }
     .wraper{
         width: 100vw;
-        height: auto;
         min-height: 100vh;
+        height: auto;
         display: flex;
         flex-direction: column;
         padding: 3%;
     }
     main img{
         width: 30%;
+        min-width: 230px;
     }
+    @media only screen and (min-width)
 </style>
